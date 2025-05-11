@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **DevOps tools**
 
+- 📫 How to reach me **vaishnavipatil6002@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
