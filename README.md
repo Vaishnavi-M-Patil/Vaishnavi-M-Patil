@@ -18,15 +18,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
-###
 
+###
 <div align="left">
   <h3>📫 Connect with me</h3>
   <a href="mailto:vaishnavipatil6002@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://www.linkedin.com/in/vaishnavi-m-patil/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
 </div>
-
-###
-
-<br clear="both">
-###
