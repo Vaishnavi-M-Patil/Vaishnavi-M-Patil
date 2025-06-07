@@ -18,7 +18,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   </div>
 
-   [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ansible,git,github&theme=light)](https://skillicons.dev)
 
 ###
 <div align="left">
