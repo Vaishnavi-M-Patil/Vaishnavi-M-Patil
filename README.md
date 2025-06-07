@@ -7,9 +7,11 @@
 </div>
 
 ###
-
+<div align="left">
   <h3>🔧 Tech Stack</h3>
-   [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,linux,python,ansible,git,github&theme=light)](https://skillicons.dev)
+ 
+  [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,linux,python,ansible,git,github&theme=light)](https://skillicons.dev)
+  </div>
 
 ###
 <div align="left">
