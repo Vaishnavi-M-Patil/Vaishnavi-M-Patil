@@ -1,77 +1,49 @@
-# 🚀 NamrataPatil2001 
----
-**"Engineering transforms nature's power into innovation for humanity's progress."**
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Welcome to **NamrataPatil2001: Full-Stack Java Mastery**, a powerhouse repository inspired by the brilliance of Indian engineering. This hub is dedicated to **scalable backend solutions, interactive web applications, and robust database-driven projects**, all built with cutting-edge Java technologies. 🚀
+###
 
----
-![cover](https://github.com/NamrataPatil2001/NamrataPatil2001/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(1).png)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h1 align = "center">Hi 👋, I am Namrata Patil</h1>
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🖥️ **Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+###
 
-### ⚙️ **Backend**  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB43F?style=for-the-badge&logo=spring)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)  
-![JDBC](https://img.shields.io/badge/-JDBC-003366?style=for-the-badge&logo=oracle)  
-![Servlet](https://img.shields.io/badge/-Servlet-FF7800?style=for-the-badge)  
-![JSP](https://img.shields.io/badge/-JSP-007396?style=for-the-badge)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 🗄️ **Database**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 📌 Tech Stack  
+###
 
-### 🖥️ **Frontend:**  
-🔹 HTML, CSS, JavaScript  
-🔹 ReactJS  
+<br clear="both">
 
-### ⚙️ **Backend:**  
-🔹 Java (JDK 17+)  
-🔹 Hibernate ORM  
-🔹 JDBC, Servlets, JSP  
-🔹 Spring Framework (Spring Boot, Spring MVC, Spring Security)  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### 🗄️ **Database:**  
-🔹 MySQL
-
- 
-
----
-
-## 🔥 Features  
-
-✅ **Enterprise-Level Java Web Apps**  
-✅ **Efficient ORM with Hibernate**  
-✅ **Secure API Development with Spring**  
-✅ **Dynamic UI with ReactJS**  
-✅ **Optimized SQL Queries for High Performance**  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamrataPatil9942&show_icons=true&theme=tokyonight)
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataPatil9942&layout=compact&theme=tokyonight)
-
----
-
----
-<!--
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)-->
-
+###
