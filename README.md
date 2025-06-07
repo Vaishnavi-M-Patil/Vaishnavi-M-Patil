@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40" alt="Git" />
-<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="40" alt="GitHub" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 ###
 
@@ -29,7 +29,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake animation" /> 
-
 ###
