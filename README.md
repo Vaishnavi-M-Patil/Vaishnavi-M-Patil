@@ -10,7 +10,7 @@
 <div align="left">
   <h3>🔧 Tech Stack</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,linux,ansible,git,github&theme=light)](https://github.com/Vaishnavi-M-Patil/)
+  [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernete,ansible,git,github&theme=light)](https://github.com/Vaishnavi-M-Patil/)
   </div>
 
 ###
