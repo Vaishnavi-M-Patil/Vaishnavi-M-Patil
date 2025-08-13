@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Vaishnavi Patil </h2>
 <p align="left">💻 Passionate about AWS, Linux, and DevOps tools!</p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-M-Patil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="140" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavi-M-Patil&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="Top languages" />  
 </div>
