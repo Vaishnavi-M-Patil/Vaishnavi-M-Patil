@@ -7,6 +7,12 @@ I am passionate about Linux system administration, AWS cloud, and DevOps.
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-M-Patil&show_icons=true&theme=radical" width="400" alt="GitHub Streak" />
 </p>
 
+## 🔧 Tech Stack
+<div align="left"> 
+  [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,ansible,git,github&theme=light)]()
+  </div>
+
+
 ## About Me
 - 🔭 I’m currently learning advanced DevOps tools and cloud architectures.
 - 📫 How to reach me:  
