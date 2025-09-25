@@ -12,6 +12,12 @@ I am passionate about Linux system administration, AWS cloud, and DevOps.
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,ansible,git,github&theme=light)]()
   </div>
 
+###
+<div align="left">
+  <h3>🔧 Tech Stack</h3>
+ 
+  [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,ansible,git,github&theme=light)]()
+  </div>
 
 ## About Me
 - 🔭 I’m currently learning advanced DevOps tools and cloud architectures.
