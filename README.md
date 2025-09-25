@@ -2,7 +2,7 @@
 
 I am passionate about Linux system administration, AWS cloud, and DevOps.
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Vaishnavi-M-Patil&theme=radical" alt="GitHub Streak" />
 </p>
 
