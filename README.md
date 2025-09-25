@@ -3,8 +3,8 @@
 I am passionate about Linux system administration, AWS cloud, and DevOps.
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Vaishnavi-M-Patil&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-M-Patil&show_icons=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Vaishnavi-M-Patil&theme=radical" width="100" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-M-Patil&show_icons=true&theme=radical" width="100" alt="GitHub Streak" />
 </p>
 
 ## About Me
