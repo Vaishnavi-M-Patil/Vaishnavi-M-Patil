@@ -9,7 +9,7 @@ I am passionate about Linux system administration, AWS cloud, and DevOps.
 
 ## 🔧 Tech Stack
 <div align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,ansible,git,github&theme=light)]()
+![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,ansible,git,github&theme=light)
   </div>
 
 
