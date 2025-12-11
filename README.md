@@ -3,6 +3,8 @@
 **MCA Graduate | Linux | AWS | Kubernetes | Docker | CI/CD Pipelines**
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Vaishnavi-M-Patil&theme=radical&width=420)
+[![Vaishnavi's GitHub Stats](https://github-readme-stats-sigma.vercel.app/api?username=Vaishnavi-M-Patil&show_icons=true&theme=radical&hide_border=true)](https://github.com/Vaishnavi-M-Patil)
+
 
 ## 🔧 Tech Stack
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu%20CentOS-brightgreen?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
