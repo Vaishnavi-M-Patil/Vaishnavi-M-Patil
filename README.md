@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu%20CentOS-brightgreen?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 [![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FCloudFront%2FIAM%2FRoute53-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
-[![Docker](https://img.shields.io/badge/Docker?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 [![K8s](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 
 [![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
