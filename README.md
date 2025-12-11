@@ -1,4 +1,4 @@
-# Hi, I'm Vaishnavi 👋 DevOps Engineer
+# Hi, I'm Vaishnavi 👋 
 
 **MCA Graduate | Linux | AWS | Kubernetes | Docker | CI/CD Pipelines**
 
