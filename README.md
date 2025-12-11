@@ -10,9 +10,12 @@
 [![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 [![K8s](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 
-[![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![Terraform](https://img.shields.io/badge/Terraform-gray?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 [![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
-[![Ansible](https://img.shields.io/badge/Ansible-yellow?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![Ansible](https://img.shields.io/badge/Ansible-gray?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![GitHub](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
+[![Prometheus](https://img.shields.io/badge/Prometheus-yellow?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 
 ## 🚀 Featured Projects
 - **Kubernetes Deployment** nodeJS app
