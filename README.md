@@ -19,10 +19,10 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-yellow?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/Vaishnavi-M-Patil)
 
 ## 🚀 Featured Projects
-- **Kubernetes Deployment** nodeJS app
 - **Jenkins CI/CD Pipeline** for Node.js apps
 - **AWS Infrastructure** (EC2/VPC/S3/RDS) using Terraform
-- **Prometheus Monitoring** for containerized apps
+- **Kubernetes Deployment** nodeJS app deployed on k8s
+- **Prometheus Monitoring** for containerized react app
 
 ## 🌐 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-vaishnavipatil6002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavipatil6002@gmail.com)
